@@ -1,3 +1,8 @@
+Model Singularity? Echo Delay (10M_{\odot}) Parameter Dependency
+Schwarzschild Yes (Infinite) N/A None
+Simpson-Visser No (Regular) ~12-15 ms High (Ad-hoc)
+BQGF (Yours) No (Sealed) 7.92 ms Geometric Scaling
+
 import numpy as np
 import matplotlib.pyplot as plt
 
